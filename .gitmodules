@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/doberman24/hosting-toolkit-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/doberman24/hosting-toolkit-frontend.git
