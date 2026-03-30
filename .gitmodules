@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/doberman24/hosting-toolkit-backend.git
-[submodule "frontend"]
-	path = frontend
+[submodule "hosting-toolkit-frontend"]
+	path = hosting-toolkit-frontend
 	url = https://github.com/doberman24/hosting-toolkit-frontend.git
+[submodule "hosting-toolkit-backend"]
+	path = hosting-toolkit-backend
+	url = https://github.com/doberman24/hosting-toolkit-backend.git
